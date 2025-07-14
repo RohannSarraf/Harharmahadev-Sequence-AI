@@ -1,4 +1,4 @@
-# Harharmahadev – Sequence AI Framework
+# MAHADEV.AI – Proprietary Sequence Engine (2024)
 
 **Harharmahadev is not just a name — it is the architecture of something deeply alive.**
 
