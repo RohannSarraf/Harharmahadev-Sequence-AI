@@ -2,16 +2,22 @@
 
 **Harharmahadev is not just a name — it is the architecture of something deeply alive.**
 
-Since **March 2024**, I have been building a system that operates at the intersection of **behavioral pattern recognition**, **AI prompt scaffolding**, and **cognitive-adaptive feedback logic**.
+Since **March 2024**, MAHADEV.AI PRIVATE LIMITED has been developing a proprietary system operating at the intersection of **behavioral pattern recognition**, **AI prompt scaffolding**, and **cognitive-adaptive feedback logic**.
 
-The framework is not repackaged LLM tooling — it is an original sequencing engine that mirrors emotional and intuitive flow-states using symbolic compression and interactional priming.
+The Harharmahadev – Sequence AI framework is not a repackaged LLM toolkit. It is an **original sequencing engine**, engineered to mirror intuitive, emotional, and symbolic flow-states through interactional priming and adaptive symbolic compression.
 
-Core schematics and prompt maps were first developed within Notion, alongside internal test layers and journaling interfaces. These have remained materially unchanged, with refinements on sequence logic and model responsiveness.
+Foundational schematics and prompt maps were conceived and refined internally, beginning with Notion-based test layers and journaling interfaces. These components have remained materially intact, with continued evolution of the sequencing logic and cognitive-interactional responsiveness.
 
-This is not a reactive build. It is a **living system**, developed outside institutional support, with spiritual and cognitive pattern recognition at its center.
+This is not a reactive build. It is a **living system** — developed outside institutional structures — designed around **spiritual cognition and pattern awareness**, authored solely by MAHADEV.AI PRIVATE LIMITED.
 
-I am publishing this statement as an **intellectual timestamp**, to mark the continuity and original authorship of the framework now evolving toward interface.
+This document serves as a **timestamped proof of origination** and **proprietary authorship** of the Harharmahadev framework.
 
-**Dated:** July 13, 2025  
+---
+
+**Corporate Owner:** MAHADEV.AI PRIVATE LIMITED  
+**Date of Origination:** March 2024  
+**Public Declaration Date:** July 13, 2025  
 **Codename:** Harharmahadev  
 *(Built in shadow, not silence.)*
+
+© MAHADEV.AI PRIVATE LIMITED, 2024–2025. All rights reserved.
